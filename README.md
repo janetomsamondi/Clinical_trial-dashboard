@@ -12,17 +12,17 @@ The dashboard helps identify patterns in patient compliance, outcomes, and demog
 
 Filter patients by **Country**, **Treatment Arm**, and **Outcome**
 
-**Bar charts** showing patient counts per country
+a. **Bar charts** showing patient counts per country
 
-**Box plots** showing age distribution by treatment arm
+b. **Box plots** showing age distribution by treatment arm
 
-**Stacked histograms** for patient outcomes over time
+c. **Stacked histograms** for patient outcomes over time
 
-**Scatter plot** of compliance vs. age with a trendline
+d. **Scatter plot** of compliance vs. age with a trendline
 
-Interactive **data table** for patient-level details
+e. Interactive **data table** for patient-level details
 
-Easy-to-use sidebar filters to dynamically update visualizations
+f. Easy-to-use sidebar filters to dynamically update visualizations
 
 **Technologies Used**
 
